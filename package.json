@@ -14,7 +14,7 @@
   "dependencies": {
     "appium": "latest",
     "async": "^0.9.0",
-    "cucumber": "^0.4.8",
+    "cucumber": "^0.5.3",
     "chai": "^2.2.0",
     "chai-as-promised": "^4.3.0",
     "chance": "^0.7.3",
